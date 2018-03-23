@@ -1,4 +1,4 @@
-# intranet
+# Vue-cli Boilerplate Template!
 
 > A Nice Boilerplate Template for creating medium plus Vue.js projects
 
