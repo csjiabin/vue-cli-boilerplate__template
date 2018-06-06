@@ -17,4 +17,4 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-### webpack.dll.conf.js预编译，happypack多线程加快打包速
+### webpack.dll.conf.js预编译，happypack多线程提高打包效率
